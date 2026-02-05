@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dosvln3mawjer"]
+
+[ext_resource type="Script" uid="uid://ck3b0h76cjt3" path="res://Main/piece_manager.gd" id="1_wwj72"]
+
+[node name="Piece_Manager" type="Node2D"]
+script = ExtResource("1_wwj72")
